@@ -1,3 +1,6 @@
 profile/
-profile
-chromedriver.exe
+LOC.json
+takeout-20190722T221647Z-001.zip
+out.csv
+.ipynb_checkpoints/
+.idea/
